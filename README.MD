@@ -1,7 +1,7 @@
 # Podcasts
 
 
-IT Reality [Part 1](https://itr-it-reality.zencast.website/episodes/40)
+IT Reality [Welcome Caitlin Allison from VMUG HQ - Part 1](https://itr-it-reality.zencast.website/episodes/40)
 
 IT Reality [Part 2](https://itr-it-reality.zencast.website/episodes/41) 
 
